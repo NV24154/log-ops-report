@@ -1,0 +1,6 @@
+2026-02-05 08:11:20 | ERROR | api | Unhandled exception
+2026-02-05 08:11:21 | INFO | auth | User login success
+2026-02-05 08:11:22 | WARN | api | Slow response
+2026-02-05 08:11:23 | ERROR | db | DB timeout
+2026-02-05 08:11:24 | INFO | api | Request received
+2026-02-05 08:11:25 | ERROR | auth | Login failed
